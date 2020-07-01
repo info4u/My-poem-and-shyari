@@ -1,0 +1,27 @@
+header{
+	background:#ff00bf;
+	text-align:center;
+	font-variant:small-caps;
+	font-style:normal;
+}
+section{
+	background-color:#b34d4d;
+	text-align:center;
+}
+
+h2{
+	text-align:center;
+	font-family:verdana,"Times new Roman",serif;
+	color:#ff2311;
+	font-size:180%;
+}
+p{
+	line-height:120%;
+	font-size:130%
+}
+body{
+	background:#e61919;
+}
+footer{
+	background:#ff00bf;
+}
